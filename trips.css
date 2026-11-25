@@ -1,0 +1,125 @@
+/* Itinerary styles, loaded after the base stylesheet (SITE_STYLESHEET_URL).
+   Fonts come from that file; sizes follow its type scale:
+   32px name, 22px h2, 18px h3, 14px body (normal leading), 700 for titles.
+   Uses its color tokens (--border, --bg-code, --highlight-bg, ...),
+   with fallback values for when no base stylesheet is set. */
+
+
+.trip h3 {
+  margin: 28px 0 6px;
+  padding-bottom: 4px;
+  font-size: 18px;
+  font-weight: 400;
+  border-bottom: 1px solid var(--border, #e4e4e0);
+}
+
+.trip h4 {
+  margin: 16px 0 4px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.trip ul,
+.trip ol {
+  margin: 6px 0;
+  padding-left: 22px;
+}
+
+.trip table {
+  width: 100%;
+  margin: 10px 0;
+  border-collapse: collapse;
+}
+
+.trip th,
+.trip td {
+  padding: 6px 8px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border, #e4e4e0);
+}
+
+.trip th {
+  background: var(--bg-code, #f7f7f5);
+}
+
+.trip blockquote {
+  margin: 10px 0;
+  padding: 6px 12px;
+  background: var(--highlight-bg, #ffffd0);
+  border-left: 3px solid var(--accent-hover, #f09228);
+}
+
+.trip blockquote p {
+  margin: 4px 0;
+}
+
+.trip img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Entries with a description and/or image: thumbnail left, text right,
+   like the project rows on the homepage. */
+.entry {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.entry-img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.photo-link {
+  flex: 0 0 auto;
+  background-image: none;  /* no hover underline under photos */
+}
+
+.photo-link:hover img {
+  opacity: 0.85;
+}
+
+.entry-desc {
+  margin-top: 4px;
+}
+
+/* Two or more photos: one row under the text, never wrapping. build.py sets each
+   photo's share of the width from its shape, so they line up at the same height. */
+.entry-gallery {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.entry-gallery .photo-link {
+  min-width: 0;
+}
+
+.entry-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Wide tables scroll sideways on phones instead of squashing. */
+@media (max-width: 640px) {
+  .trip table {
+    display: block;
+    overflow-x: auto;
+  }
+
+  .entry {
+    gap: 12px;
+  }
+
+  .entry-img {
+    width: 120px;
+    height: 120px;
+  }
+}

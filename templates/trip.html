@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{title}} - {{site_name}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <meta name="robots" content="noindex">
+{{head}}
+    <link rel="stylesheet" type="text/css" href="../trips.css">
+  </head>
+
+  <body>
+    <main class="page">
+      <h1 class="name">{{site_name}}</h1>
+      <p class="bio-links">
+        {{home_link}}<a href="../">Trips</a>
+      </p>
+
+      <article class="section-header trip">
+        <h2>{{title}}</h2>
+        <p>{{dates}}</p>
+{{body}}
+      </article>
+
+      <footer class="site-footer">
+        <p>
+          <a href="https://github.com/jonbarron/jonbarron.github.io">Template from Jon Barron</a>
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
