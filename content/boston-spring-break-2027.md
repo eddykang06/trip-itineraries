@@ -4,6 +4,57 @@ start: 2027-03-13
 end: 2027-03-20
 ---
 
+## Schedule
+
+### Saturday · Mar 13
+#### Afternoon
+- [Joe's Pizza](https://www.joespizzanyc.com/) | [3 Brattle St, Cambridge, MA 02138](https://www.google.com/maps/search/?api=1&query=Joe%27s+Pizza%2C+3+Brattle+St%2C+Cambridge%2C+MA+02138)
+	- Lunch. The NYC slice shop, in Harvard Square.
+- [Pinocchio's Pizza](https://www.google.com/maps/search/?api=1&query=Pinocchio%27s+Pizza+%26+Subs%2C+74+Winthrop+St%2C+Cambridge%2C+MA+02138) | [74 Winthrop St, Cambridge, MA 02138](https://www.google.com/maps/search/?api=1&query=Pinocchio%27s+Pizza%2C+74+Winthrop+St%2C+Cambridge%2C+MA+02138)
+	- Lunch. Harvard Square classic, get the Sicilian slice.
+
+### Sunday · Mar 14
+#### Morning
+- [Memorial Church](https://memorialchurch.harvard.edu/) | [1 Harvard Yard, Cambridge, MA 02138](https://www.google.com/maps/search/?api=1&query=Memorial+Church%2C+1+Harvard+Yard%2C+Cambridge%2C+MA+02138)
+	- Sunday service in Harvard Yard.
+
+#### Afternoon
+- [Reflecting Pool](https://www.christianscience.com/the-mother-church-in-boston) | [210 Massachusetts Ave, Boston, MA 02115](https://www.google.com/maps/search/?api=1&query=Reflecting+Pool%2C+210+Massachusetts+Ave%2C+Boston%2C+MA+02115)
+	- Big pool by the Christian Science church, nice at night.
+	- ![[Pasted image 20261124204837.png|172]]![[Pasted image 20261124204919.png|246]]
+- [Public Garden](https://www.boston.gov/parks/public-garden) | [4 Charles St, Boston, MA 02116](https://www.google.com/maps/search/?api=1&query=Public+Garden%2C+4+Charles+St%2C+Boston%2C+MA+02116)
+	- Pretty park next to the Common, has the duckling statues.
+	- ![[Pasted image 20261124205047.png|240]]![[Pasted image 20261124205111.png|179]]
+- [Newbury Street](https://www.boston.gov/departments/transportation/open-newbury-street) | [Newbury St & Arlington St, Boston, MA 02116](https://www.google.com/maps/search/?api=1&query=Newbury+Street%2C+Newbury+St+%26+Arlington+St%2C+Boston%2C+MA+02116)
+	- Main shopping street, lots of stores and cafes.
+	- Check the 2027 schedule for open streets.
+	- [Arc'teryx](https://stores.arcteryx.com/newbury), [Brandy Melville](https://locations.brandymelville.com/), [Gorjana](https://www.gorjana.com/pages/boston-store-details), [Princess Polly](https://www.google.com/maps/search/?api=1&query=Princess+Polly%2C+201+Newbury+St%2C+Boston%2C+MA+02116)
+	- ![[Pasted image 20261124204617.png|151]]![[Pasted image 20261124204640.png|301]]
+
+### Monday · Mar 15
+
+### Tuesday · Mar 16
+
+### Wednesday · Mar 17
+
+### Thursday · Mar 18
+#### Morning
+- [Museum of Fine Arts](https://www.mfa.org/) | [465 Huntington Ave, Boston, MA 02115](https://www.google.com/maps/search/?api=1&query=Museum+of+Fine+Arts%2C+465+Huntington+Ave%2C+Boston%2C+MA+02115)
+	- Free on Thursdays.
+	- ![[Pasted image 20261124233719.png|219]]![[Pasted image 20261124233735.png|297]]
+
+#### Afternoon
+
+#### Evening
+
+### Friday · Mar 19
+
+### Saturday · Mar 20
+
+---
+
+Everything below is a bank of places to pick from, grouped by area. Copy one into a day above to add it to the schedule.
+
 ## New York City
 
 - [FAO Schwarz](https://faoschwarz.com/pages/store-location-hours) | [30 Rockefeller Plaza, New York, NY 10111](https://www.google.com/maps/search/?api=1&query=FAO+Schwarz%2C+30+Rockefeller+Plaza%2C+New+York%2C+NY+10111)
@@ -45,6 +96,10 @@ end: 2027-03-20
 - [The Vessel](https://www.hudsonyardsnewyork.com/attractions/vessel/) | [20 Hudson Yards, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=The+Vessel%2C+20+Hudson+Yards%2C+New+York%2C+NY+10001)
 	- Giant honeycomb staircase at Hudson Yards.
 	- ![[Pasted image 20261126030212.png|258]]![[Pasted image 20261126030233.png|291]]
+- [Elizabeth Street Garden](https://www.elizabethstreetgarden.com/) | [209 Elizabeth St, New York, NY 10012](https://www.google.com/maps/search/?api=1&query=Elizabeth+Street+Garden%2C+209+Elizabeth+St%2C+New+York%2C+NY+10012)
+	- Quiet sculpture garden in Nolita, a few blocks from Stussy.
+- [McNally Jackson Books](https://www.mcnallyjackson.com/) | [134 Prince St, New York, NY 10012](https://www.google.com/maps/search/?api=1&query=McNally+Jackson+Books%2C+134+Prince+St%2C+New+York%2C+NY+10012)
+	- Big indie bookstore in SoHo, on the same street as Stussy.
 
 ### Food
 - [Grace Street Coffee](https://www.bygracestreet.com/) | [17 W 32nd St, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=Grace+Street+Coffee%2C+17+W+32nd+St%2C+New+York%2C+NY+10001)
@@ -68,7 +123,7 @@ end: 2027-03-20
 - [Newbury Street](https://www.boston.gov/departments/transportation/open-newbury-street) | [Newbury St & Arlington St, Boston, MA 02116](https://www.google.com/maps/search/?api=1&query=Newbury+Street%2C+Newbury+St+%26+Arlington+St%2C+Boston%2C+MA+02116)
 	- Main shopping street, lots of stores and cafes.
 	- Check the 2027 schedule for open streets.
-	- [Arc'teryx](https://stores.arcteryx.com/newbury), [Brandy Melville](https://locations.brandymelville.com/), [Gorjana](https://www.gorjana.com/pages/boston-store-details)
+	- [Arc'teryx](https://stores.arcteryx.com/newbury), [Brandy Melville](https://locations.brandymelville.com/), [Gorjana](https://www.gorjana.com/pages/boston-store-details), [Princess Polly](https://www.google.com/maps/search/?api=1&query=Princess+Polly%2C+201+Newbury+St%2C+Boston%2C+MA+02116)
 	- ![[Pasted image 20261124204617.png|151]]![[Pasted image 20261124204640.png|301]]
 - [Prudential Center](https://www.prudentialcenter.com/) | [800 Boylston St, Boston, MA 02199](https://www.google.com/maps/search/?api=1&query=Prudential+Center%2C+800+Boylston+St%2C+Boston%2C+MA+02199)
 	- Mall connected to Copley, good if it's cold out.
@@ -82,6 +137,11 @@ end: 2027-03-20
 - [Public Garden](https://www.boston.gov/parks/public-garden) | [4 Charles St, Boston, MA 02116](https://www.google.com/maps/search/?api=1&query=Public+Garden%2C+4+Charles+St%2C+Boston%2C+MA+02116)
 	- Pretty park next to the Common, has the duckling statues.
 	- ![[Pasted image 20261124205047.png|240]]![[Pasted image 20261124205111.png|179]]
+- [Brattle Book Shop](https://www.brattlebookshop.com/) | [9 West St, Boston, MA 02111](https://www.google.com/maps/search/?api=1&query=Brattle+Book+Shop%2C+9+West+St%2C+Boston%2C+MA+02111)
+	- Old used bookstore by Downtown Crossing, with cheap books in the outdoor lot.
+- [SoWa Vintage Market](https://www.sowaboston.com/sowa-vintage-market) | [450 Harrison Ave, Boston, MA 02118](https://www.google.com/maps/search/?api=1&query=SoWa+Vintage+Market%2C+450+Harrison+Ave%2C+Boston%2C+MA+02118)
+	- Indoor vintage market in the South End, clothes, records and furniture.
+	- Sundays only, 11 am to 4 pm.
 
 ### Food
 - [Growl Growl](https://growlgrowl.com/) | [48 Winter St, Boston, MA 02111](https://www.google.com/maps/search/?api=1&query=Growl+Growl%2C+48+Winter+St%2C+Boston%2C+MA+02111)
@@ -141,10 +201,13 @@ end: 2027-03-20
 
 - [Maruichi](https://www.google.com/maps/search/?api=1&query=Maruichi+Japanese+Food+%26+Deli%2C+306+Harvard+St%2C+Brookline%2C+MA) | [306 Harvard St, Brookline, MA 02446](https://www.google.com/maps/search/?api=1&query=Maruichi%2C+306+Harvard+St%2C+Brookline%2C+MA+02446)
 	- Japanese grocery store.
+	- ![[Pasted image 20261126031257.png|242]]![[Pasted image 20261126031316.png|285]]
 - [Brookline Farmers Market](https://www.brooklinefarmersmarket.com/) | [Centre St West Parking Lot, Brookline, MA 02446](https://www.google.com/maps/search/?api=1&query=Brookline+Farmers+Market%2C+Centre+St+West+Parking+Lot%2C+Brookline%2C+MA+02446)
 	- Local farmers market.
 - [Vivant Vintage](https://www.vivantvintage.com/) | [318 Lincoln St, Allston, MA 02134](https://www.google.com/maps/search/?api=1&query=Vivant+Vintage%2C+318+Lincoln+St%2C+Allston%2C+MA+02134)
 	- Vintage clothes, lots of denim.
+- [Knight Moves](https://www.knightmovescafe.com/) | [1402 Beacon St, Brookline, MA 02446](https://www.google.com/maps/search/?api=1&query=Knight+Moves+Cafe%2C+1402+Beacon+St%2C+Brookline%2C+MA+02446)
+	- Board game cafe in Coolidge Corner, pay a cover and play anything off the shelves.
 
 ### Food
 - [Sanbada](https://www.google.com/maps/search/?api=1&query=Sanbada%2C+165+Brighton+Ave%2C+Allston%2C+MA) | [165 Brighton Ave, Allston, MA 02134](https://www.google.com/maps/search/?api=1&query=Sanbada%2C+165+Brighton+Ave%2C+Allston%2C+MA+02134)
@@ -163,6 +226,8 @@ end: 2027-03-20
 	- Indian curry house.
 - [Molly Tea](https://www.google.com/maps/search/?api=1&query=Molly+Tea%2C+122+Brighton+Ave%2C+Allston%2C+MA) | [122 Brighton Ave, Allston, MA 02134](https://www.google.com/maps/search/?api=1&query=Molly+Tea%2C+122+Brighton+Ave%2C+Allston%2C+MA+02134)
 	- Chinese flower and milk tea shop.
+- [Meet Fresh](https://www.meetfresh.us/) | [140 Brighton Ave, Allston, MA 02134](https://www.google.com/maps/search/?api=1&query=Meet+Fresh%2C+140+Brighton+Ave%2C+Allston%2C+MA+02134)
+	- Taiwanese dessert chain, taro balls and grass jelly bowls.
 
 ## North End + Seaport
 
@@ -180,6 +245,8 @@ end: 2027-03-20
 	- Old-school Italian grocery.
 - [Lewis Wharf](https://www.google.com/maps/search/?api=1&query=Lewis%20Wharf%2C%20Commercial%20St%2C%20North%20End%2C%20Boston%2C%20MA) | [28 Atlantic Ave, Boston, MA 02110](https://www.google.com/maps/search/?api=1&query=Lewis+Wharf%2C+28+Atlantic+Ave%2C+Boston%2C+MA+02110)
 	- Quiet spot on the water to sit.
+- [Fan Pier Park](https://www.google.com/maps/search/?api=1&query=Fan+Pier+Park%2C+Fan+Pier+Blvd%2C+Boston%2C+MA+02210) | [Fan Pier Blvd, Boston, MA 02210](https://www.google.com/maps/search/?api=1&query=Fan+Pier+Park%2C+Fan+Pier+Blvd%2C+Boston%2C+MA+02210)
+	- Small harbor park in the Seaport with skyline views, right next to the ICA.
 - [Institute of Contemporary Art](https://www.icaboston.org/events/ica-free-thursday-night/) | [25 Harbor Shore Dr, Boston, MA 02210](https://www.google.com/maps/search/?api=1&query=Institute+of+Contemporary+Art%2C+25+Harbor+Shore+Dr%2C+Boston%2C+MA+02210)
 	- Modern art museum right on the water.
 	- Free Thursday nights, 5 to 9 pm, with a free timed ticket.
@@ -193,6 +260,9 @@ end: 2027-03-20
 	- Small Italian place, homemade pasta.
 - [Giacomo's Ristorante](https://giacomosboston.com/) | [355 Hanover St, Boston, MA 02113](https://www.google.com/maps/search/?api=1&query=Giacomo%27s+Ristorante%2C+355+Hanover+St%2C+Boston%2C+MA+02113)
 	- Italian, cash only and usually a line.
+- [The Tall Ship](https://www.tallshipboston.com/) | [1 East Pier Dr, East Boston, MA 02128](https://www.google.com/maps/search/?api=1&query=The+Tall+Ship%2C+1+East+Pier+Dr%2C+East+Boston%2C+MA+02128)
+	- Oyster bar on an old ship in East Boston, with a view of the skyline.
+	- Seasonal, usually opens in April, so it may be closed during the trip.
 
 ## Cambridge
 
@@ -219,12 +289,17 @@ end: 2027-03-20
 - [Viale](https://www.vialecambridge.com/) | [502 Massachusetts Ave, Cambridge, MA 02139](https://www.google.com/maps/search/?api=1&query=Viale%2C+502+Massachusetts+Ave%2C+Cambridge%2C+MA+02139)
 	- Mediterranean-ish, $1 oysters at happy hour.
 - Felipe's
+- [Black Ruby](https://www.toasttab.com/local/order/black-ruby-1790-massachusetts-avenue) | [1790 Massachusetts Ave, Cambridge, MA 02140](https://www.google.com/maps/search/?api=1&query=Black+Ruby%2C+1790+Massachusetts+Ave%2C+Cambridge%2C+MA+02140)
+	- Thai-style burgers in Porter Square, get the crispy basil burger.
+	- Closed Wednesdays.
 
 ## Kendall Square + Massachusetts Institute of Technology
 - [Eastern Edge](https://www.easternedgefoodhall.com/) | [290 Main St, Cambridge, MA 02142](https://www.google.com/maps/search/?api=1&query=Eastern+Edge%2C+290+Main+St%2C+Cambridge%2C+MA+02142)
 	- Food hall with a bunch of options.
 - [Sugar and Spice](https://sugarspices.com/) | [1933 Massachusetts Ave, Cambridge, MA 02140](https://www.google.com/maps/search/?api=1&query=Sugar+and+Spice%2C+1933+Massachusetts+Ave%2C+Cambridge%2C+MA+02140)
 	- Thai food, big portions.
+- [Sumiao Hunan Kitchen](https://www.sumiaohunan.com/) | [270 Third St, Cambridge, MA 02142](https://www.google.com/maps/search/?api=1&query=Sumiao+Hunan+Kitchen%2C+270+Third+St%2C+Cambridge%2C+MA+02142)
+	- Spicy Hunan food in Kendall, nice inside.
 
 ## South Boston
 - [Arnold Arboretum](https://arboretum.harvard.edu/) | [125 Arborway, Boston, MA 02130](https://www.google.com/maps/search/?api=1&query=Arnold+Arboretum%2C+125+Arborway%2C+Boston%2C+MA+02130)

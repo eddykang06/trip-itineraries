@@ -8,7 +8,7 @@ Each trip is one Markdown file in `content/`. Start from `content/_template.md`,
 
 - The file name becomes the URL: `content/japan-2027.md` → `<site>/japan-2027/`.
 - The header (Obsidian "properties") has `title`, and optionally `start` and `end` as `2027-03-05`. Without dates the page says "Dates TBD". Trips are listed by start date.
-- `##` headings for days or areas, `###` for parts of a day or sub-sections. Tables, lists, links and `>` note boxes work.
+- `##` headings for days or areas, `###` for parts of a day or sub-sections. Under a `###` day, `####` headings mark a part of the day or a rough time (`#### Morning`, `#### ~2 pm`). Tables, lists, links and `>` note boxes work.
 - Files whose names start with `_` are drafts: they show up in the local preview but are not published.
 
 ### Places with descriptions and images
