@@ -2,6 +2,8 @@
 
 A small static site for trip itineraries. Each trip is one Markdown file; `build.py` turns them into pages and GitHub Actions deploys them to GitHub Pages. It can borrow the stylesheet of an existing site so the pages match it, and the folder works as an [Obsidian](https://obsidian.md/) vault.
 
+**Live site:** https://eddykang06.github.io/trip-itineraries/
+
 ## Writing a trip
 
 Each trip is one Markdown file in `content/`. Start from `content/_template.md`, which shows every element.
