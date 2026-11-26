@@ -17,30 +17,34 @@ end: 2027-03-20
 	- ![[Pasted image 20261124235200.png|272]]![[Pasted image 20261124235224.png|278]]
 - [High Line](https://www.thehighline.org/) | [Gansevoort St & Washington St, New York, NY 10014](https://www.google.com/maps/search/?api=1&query=High+Line%2C+Gansevoort+St+%26+Washington+St%2C+New+York%2C+NY+10014)
 	- Old train tracks turned into a park, good walk.
+	- ![[Pasted image 20261126001356.png|239]]![[Pasted image 20261126001408.png|289]]
 - [Grand Central](https://grandcentralterminal.com/) | [89 E 42nd St, New York, NY 10017](https://www.google.com/maps/search/?api=1&query=Grand+Central%2C+89+E+42nd+St%2C+New+York%2C+NY+10017)
 	- The famous train station, look up at the ceiling.
-- [Adidas flagship store](https://www.google.com/maps/search/?api=1&query=adidas+Flagship+Store+565+5th+Ave+New+York+NY+10017) | [565 5th Ave, New York, NY 10017](https://www.google.com/maps/search/?api=1&query=Adidas+flagship+store%2C+565+5th+Ave%2C+New+York%2C+NY+10017)
-	- Big Adidas store on 5th Ave.
+	- ![[Pasted image 20261126001453.png|231]]![[Pasted image 20261126001534.png|239]]
 - [Central Park](https://www.centralparknyc.org/) | [Central Park West & W 59th St, New York, NY 10019](https://www.google.com/maps/search/?api=1&query=Central+Park%2C+Central+Park+West+%26+W+59th+St%2C+New+York%2C+NY+10019)
 	- Walk around, rent a boat or just chill.
+	- ![[Pasted image 20261126001630.png|294]]![[Pasted image 20261126001653.png|285]]
 - [Union Square](https://www.unionsquarenyc.org/) | [E 14th St & Broadway, New York, NY 10003](https://www.google.com/maps/search/?api=1&query=Union+Square%2C+E+14th+St+%26+Broadway%2C+New+York%2C+NY+10003)
 	- Busy square with a farmers market most days.
+	- ![[Pasted image 20261126001733.png|272]]![[Pasted image 20261126001752.png|275]]
 - [World Trade Center](https://www.wtc.com/) | [285 Fulton St, New York, NY 10007](https://www.google.com/maps/search/?api=1&query=One+World+Trade+Center%2C+285+Fulton+St%2C+New+York%2C+NY+10007)
 	- 9/11 memorial pools and the Oculus, go up One World for the view.
+	- ![[Pasted image 20261126001840.png|172]]![[Pasted image 20261126001906.png|260]]
 - [Flushing Chinatown](https://www.google.com/maps/search/?api=1&query=Flushing+Chinatown%2C+Main+St+%26+Roosevelt+Ave%2C+Flushing%2C+NY+11354) | [Main St & Roosevelt Ave, Flushing, NY 11354](https://www.google.com/maps/search/?api=1&query=Flushing+Chinatown%2C+Main+St+%26+Roosevelt+Ave%2C+Flushing%2C+NY+11354)
 	- Huge Chinatown in Queens, tons of good cheap food. Take the 7 train.
+	- ![[Pasted image 20261126025513.png|271]]![[Pasted image 20261126025546.png|311]]
 - [Lego Store](https://www.lego.com/en-us/stores/store/5th-avenue) | [636 5th Ave, New York, NY 10020](https://www.google.com/maps/search/?api=1&query=Lego+Store%2C+636+5th+Ave%2C+New+York%2C+NY+10020)
 	- Big Lego store, you can build your own minifig.
+	- ![[Pasted image 20261126025617.png|249]]![[Pasted image 20261126025635.png|269]]
 - [Nintendo Store](https://www.nintendo.com/us/new-york/) | [10 Rockefeller Plaza, New York, NY 10020](https://www.google.com/maps/search/?api=1&query=Nintendo+Store%2C+10+Rockefeller+Plaza%2C+New+York%2C+NY+10020)
 	- Two floors of Nintendo games and merch.
+	- ![[Pasted image 20261126025706.png|273]]![[Pasted image 20261126025724.png|281]]
 - [Magnolia Bakery](https://www.magnoliabakery.com/) | [401 Bleecker St, New York, NY 10014](https://www.google.com/maps/search/?api=1&query=Magnolia+Bakery%2C+401+Bleecker+St%2C+New+York%2C+NY+10014)
 	- The original one, get the banana pudding.
+	- ![[Pasted image 20261126025956.png|280]]![[Pasted image 20261126030101.png|275]]
 - [The Vessel](https://www.hudsonyardsnewyork.com/attractions/vessel/) | [20 Hudson Yards, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=The+Vessel%2C+20+Hudson+Yards%2C+New+York%2C+NY+10001)
 	- Giant honeycomb staircase at Hudson Yards.
-- [The Edge NYC](https://www.edgenyc.com/) | [30 Hudson Yards, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=The+Edge+NYC%2C+30+Hudson+Yards%2C+New+York%2C+NY+10001)
-	- Outdoor sky deck with a glass floor, crazy views.
-- [Statue of Liberty](https://www.nps.gov/stli/) | [Liberty Island, New York, NY 10004](https://www.google.com/maps/search/?api=1&query=Statue+of+Liberty%2C+Liberty+Island%2C+New+York%2C+NY+10004)
-	- Ferry leaves from Battery Park, book tickets ahead.
+	- ![[Pasted image 20261126030212.png|258]]![[Pasted image 20261126030233.png|291]]
 
 ### Food
 - [Grace Street Coffee](https://www.bygracestreet.com/) | [17 W 32nd St, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=Grace+Street+Coffee%2C+17+W+32nd+St%2C+New+York%2C+NY+10001)
@@ -88,8 +92,10 @@ end: 2027-03-20
 	- ![[Pasted image 20261124233300.png|258]]![[Pasted image 20261124233316.png|165]]
 - [Ogawa Coffee](https://www.ogawacoffeeusa.com/) | [10 Milk St, Boston, MA 02108](https://www.google.com/maps/search/?api=1&query=Ogawa+Coffee%2C+10+Milk+St%2C+Boston%2C+MA+02108)
 	- Japanese coffee shop from Kyoto.
+	-![[Pasted image 20261126030700.png|232]] ![[Pasted image 20261126030616.png|250]]
 - [7th Street Burger](https://locations.7thstreetburger.com/locations/ma/boston/267-newbury-st) | [267 Newbury St, Boston, MA 02116](https://www.google.com/maps/search/?api=1&query=7th+Street+Burger%2C+267+Newbury+St%2C+Boston%2C+MA+02116)
 	- Smash burgers on Newbury.
+	- ![[Pasted image 20261126030741.png|253]]![[Pasted image 20261126030828.png|127]]
 
 ## Kenmore + Commonwealth
 
@@ -143,8 +149,6 @@ end: 2027-03-20
 ### Food
 - [Sanbada](https://www.google.com/maps/search/?api=1&query=Sanbada%2C+165+Brighton+Ave%2C+Allston%2C+MA) | [165 Brighton Ave, Allston, MA 02134](https://www.google.com/maps/search/?api=1&query=Sanbada%2C+165+Brighton+Ave%2C+Allston%2C+MA+02134)
 	- Korean place, known for grilled fish sets.
-- [Lan Feast](https://lanfeast.com/) | [250 Harvard St, Brookline, MA 02446](https://www.google.com/maps/search/?api=1&query=Lan+Feast%2C+250+Harvard+St%2C+Brookline%2C+MA+02446)
-	- Hand-pulled Lanzhou beef noodles.
 - [Japonaise Bakery](https://www.google.com/maps/search/?api=1&query=Japonaise+Bakery%2C+1020+Beacon+St%2C+Brookline%2C+MA) | [1020 Beacon St, Brookline, MA 02446](https://www.google.com/maps/search/?api=1&query=Japonaise+Bakery%2C+1020+Beacon+St%2C+Brookline%2C+MA+02446)
 	- Japanese bakery, get the red bean bread.
 	- Was closed for renovation; check it has reopened.
@@ -214,6 +218,7 @@ end: 2027-03-20
 	- Sushi with live jazz some nights.
 - [Viale](https://www.vialecambridge.com/) | [502 Massachusetts Ave, Cambridge, MA 02139](https://www.google.com/maps/search/?api=1&query=Viale%2C+502+Massachusetts+Ave%2C+Cambridge%2C+MA+02139)
 	- Mediterranean-ish, $1 oysters at happy hour.
+- Felipe's
 
 ## Kendall Square + Massachusetts Institute of Technology
 - [Eastern Edge](https://www.easternedgefoodhall.com/) | [290 Main St, Cambridge, MA 02142](https://www.google.com/maps/search/?api=1&query=Eastern+Edge%2C+290+Main+St%2C+Cambridge%2C+MA+02142)
