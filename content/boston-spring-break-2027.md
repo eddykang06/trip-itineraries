@@ -27,6 +27,20 @@ end: 2027-03-20
 	- Busy square with a farmers market most days.
 - [World Trade Center](https://www.wtc.com/) | [285 Fulton St, New York, NY 10007](https://www.google.com/maps/search/?api=1&query=One+World+Trade+Center%2C+285+Fulton+St%2C+New+York%2C+NY+10007)
 	- 9/11 memorial pools and the Oculus, go up One World for the view.
+- [Flushing Chinatown](https://www.google.com/maps/search/?api=1&query=Flushing+Chinatown%2C+Main+St+%26+Roosevelt+Ave%2C+Flushing%2C+NY+11354) | [Main St & Roosevelt Ave, Flushing, NY 11354](https://www.google.com/maps/search/?api=1&query=Flushing+Chinatown%2C+Main+St+%26+Roosevelt+Ave%2C+Flushing%2C+NY+11354)
+	- Huge Chinatown in Queens, tons of good cheap food. Take the 7 train.
+- [Lego Store](https://www.lego.com/en-us/stores/store/5th-avenue) | [636 5th Ave, New York, NY 10020](https://www.google.com/maps/search/?api=1&query=Lego+Store%2C+636+5th+Ave%2C+New+York%2C+NY+10020)
+	- Big Lego store, you can build your own minifig.
+- [Nintendo Store](https://www.nintendo.com/us/new-york/) | [10 Rockefeller Plaza, New York, NY 10020](https://www.google.com/maps/search/?api=1&query=Nintendo+Store%2C+10+Rockefeller+Plaza%2C+New+York%2C+NY+10020)
+	- Two floors of Nintendo games and merch.
+- [Magnolia Bakery](https://www.magnoliabakery.com/) | [401 Bleecker St, New York, NY 10014](https://www.google.com/maps/search/?api=1&query=Magnolia+Bakery%2C+401+Bleecker+St%2C+New+York%2C+NY+10014)
+	- The original one, get the banana pudding.
+- [The Vessel](https://www.hudsonyardsnewyork.com/attractions/vessel/) | [20 Hudson Yards, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=The+Vessel%2C+20+Hudson+Yards%2C+New+York%2C+NY+10001)
+	- Giant honeycomb staircase at Hudson Yards.
+- [The Edge NYC](https://www.edgenyc.com/) | [30 Hudson Yards, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=The+Edge+NYC%2C+30+Hudson+Yards%2C+New+York%2C+NY+10001)
+	- Outdoor sky deck with a glass floor, crazy views.
+- [Statue of Liberty](https://www.nps.gov/stli/) | [Liberty Island, New York, NY 10004](https://www.google.com/maps/search/?api=1&query=Statue+of+Liberty%2C+Liberty+Island%2C+New+York%2C+NY+10004)
+	- Ferry leaves from Battery Park, book tickets ahead.
 
 ### Food
 - [Grace Street Coffee](https://www.bygracestreet.com/) | [17 W 32nd St, New York, NY 10001](https://www.google.com/maps/search/?api=1&query=Grace+Street+Coffee%2C+17+W+32nd+St%2C+New+York%2C+NY+10001)
